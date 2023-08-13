@@ -1,0 +1,7 @@
+function makeMove(sticks) {
+
+  
+}
+
+
+makeMove()
