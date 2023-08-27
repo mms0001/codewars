@@ -1,5 +1,9 @@
 {
+  "type": "commonjs",
   "dependencies": {
     "chai": "^4.3.7"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.6.2"
   }
 }
